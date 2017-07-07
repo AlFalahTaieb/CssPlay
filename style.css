@@ -12,6 +12,10 @@
     input {
       width:100px;
     }
+
+        .hl {
+      color: var(--base);
+    }
 :root{
   --base:#ffc600;
   --spacing:10px;
